@@ -20,7 +20,8 @@ Table of Contents:
 
 2.Libraries Required:
 
-	The code was written in python 3 and requires the following packages: numpy, pandas, matplotlib, seaborn, pickle, time, sklearn collections, and operator.
+	The code was written in python 3 and requires the following packages: 
+	NumPy, pandas, Sklearn / scikit-learn, Matplotlib (for data visualization), Seaborn (for data visualization).
 	
 3.Summary of Results:
 
