@@ -20,3 +20,11 @@ Table of Contents:
 2.Libraries Required
 
 	The code was written in python 3 and requires the following packages: numpy, pandas, matplotlib, seaborn, pickle, time, sklearn collections, and operator.
+	
+3.Summary of Results:
+
+	See GitHub for summary of results.
+	
+4.Licensing and Acknowledgements
+
+	This project was completed as part of the Udacity Data Scientist Nanodegree. Arvato provided the data which cannot be publicly shared.
