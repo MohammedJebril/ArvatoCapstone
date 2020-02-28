@@ -25,7 +25,7 @@ Table of Contents:
 	
 3.Summary of Results:
 
-	See ArvatoCapstone.zip for summary of results.
+	See https://medium.com/@moh.55/using-machine-learning-to-identify-customers-bfd88ea29d9 for summary of results.
 	
 4.Licensing and Acknowledgements:
 
