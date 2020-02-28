@@ -12,8 +12,8 @@ Table of Contents:
  
 1.File Descriptions:
 
-	README.md - This file, describing the contents of this repo
- 	Identify_Customer_Segments.html	 - HTML file containing project code
- 	Identify_Customer_Segments.ipynb - Jupyter Notebook file containing project code
-	DIAS Information Levels - Attributes .xlsx and DIAS Attributes - Values .xlsx - Excel files containing information on the features.
+	A. README.md - This file, describing the contents of this repo
+	B. Identify_Customer_Segments.html	 - HTML file containing project code
+	C. Identify_Customer_Segments.ipynb - Jupyter Notebook file containing project code
+	D. DIAS Information Levels - Attributes .xlsx and DIAS Attributes - Values .xlsx - Excel files containing information on the features.
 
