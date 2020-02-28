@@ -16,6 +16,7 @@ Table of Contents:
 	B. Identify_Customer_Segments.html	 - HTML file containing project code
 	C. Identify_Customer_Segments.ipynb - Jupyter Notebook file containing project code
 	D. DIAS Information Levels - Attributes .xlsx and DIAS Attributes - Values .xlsx - Excel files containing information on the features.
+	E. ArvatoCapstone.zip - This file contains the summary of results.
 
 2.Libraries Required:
 
@@ -23,7 +24,7 @@ Table of Contents:
 	
 3.Summary of Results:
 
-	See GitHub for summary of results.
+	See ArvatoCapstone.zip for summary of results.
 	
 4.Licensing and Acknowledgements:
 
