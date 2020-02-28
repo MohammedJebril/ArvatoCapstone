@@ -13,6 +13,7 @@ Table of Contents:
 1.File Descriptions:
 
 	README.md - This file, describing the contents of this repo
-	.gitignore The gitignore file
-	Arvato_capstone.ipynb - Jupyter Notebook file containing project code
-	DIAS Information Levels - Attributes 2017.xlsx and DIAS Attributes - Values 2017.xlsx - Excel files containing information on the features.
+ 	Identify_Customer_Segments.html	 - HTML file containing project code
+ 	Identify_Customer_Segments.ipynb - Jupyter Notebook file containing project code
+	DIAS Information Levels - Attributes .xlsx and DIAS Attributes - Values .xlsx - Excel files containing information on the features.
+
